@@ -52,3 +52,15 @@
    一台iPad，（玩Swift Playground的游戏）
 
    每周投入2-3个小时。越多越好，但每天不需要超过1个小时。
+
+
+
+## 5. 欢迎提交bug和反馈
+
+欢迎提交“20小时Python”这个项目bug和改进建议给我。bug的范围包括不限于：文档错误更正、代码错误、任何改进建议以及对其他同学有帮助的建议等。
+
+不冒犯你的话，我将为每个bug（有雷同的话算第一个）支付2.56元人民币的红包，聊表谢意：）
+
+2.56元是从分开始计算、16进制的一块钱。这里有一段典故：[《高纳德的奖励支票》](http://www.global-sci.org/v1/mc/issues/4/no3/freepdf/91s.pdf)：http://www.global-sci.org/v1/mc/issues/4/no3/freepdf/91s.pdf
+
+这是“20小时Python” 收集bug的[链接](https://github.com/lanjing99/20HoursPython/issues/2)：https://github.com/lanjing99/20HoursPython/issues/2
