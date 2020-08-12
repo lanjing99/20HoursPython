@@ -37,7 +37,7 @@
 
    我会把每周要做的任务，学习资源同步放到这里。
 
-   你可以在[这里](https://github.com/lanjing99/20HoursPython/issues)https://github.com/lanjing99/20HoursPython/issues，提问题给我。
+   你可以在[这里](https://github.com/lanjing99/20HoursPython/issues)，提问题给我。
 
 ## 4. 常见问题
 
@@ -61,6 +61,6 @@
 
 不冒犯你的话，我将为每个bug（有雷同的话算第一个）支付2.56元人民币的红包，聊表谢意：）
 
-2.56元是从分开始计算、16进制的一块钱。这里有一段典故：[《高纳德的奖励支票》](http://www.global-sci.org/v1/mc/issues/4/no3/freepdf/91s.pdf)：http://www.global-sci.org/v1/mc/issues/4/no3/freepdf/91s.pdf
+2.56元是从分开始计算、16进制的一块钱。这里有一段典故：[《高纳德的奖励支票》](http://www.global-sci.org/v1/mc/issues/4/no3/freepdf/91s.pdf)。
 
-这是“20小时Python” 收集bug的[链接](https://github.com/lanjing99/20HoursPython/issues/2)：https://github.com/lanjing99/20HoursPython/issues/2
+这是“20小时Python” 收集bug的[链接](https://github.com/lanjing99/20HoursPython/issues/2)。

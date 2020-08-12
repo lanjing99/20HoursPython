@@ -4,6 +4,8 @@
     1. iPad 要升级到iOS 13以上才能更新最新版本的Swift Playgrounds App
     2. 在苹果电脑也可以安装了，但是也要升级到macOS 10.15以上。
 
+上周内容参见[**Week 01 Swift Playgrounds 学习编程1 1-4关.md**](https://github.com/lanjing99/20HoursPython/blob/master/Week%2001%20Swift%20Playgrounds%20学习编程1%20%201-4关.md)
+
 
 ## 本周任务 0809-0815
 Swift Playgrounds App 学习编程1，5-7关，学习编程全部通关。
@@ -22,9 +24,9 @@ Swift Playgrounds App 学习编程1，5-7关，学习编程全部通关。
 
 不冒犯你的话，我将为每个bug（有雷同的话算第一个）支付2.56元人民币的红包，聊表谢意：）
 
-2.56元是从分开始计算、16进制的一块钱。这里有一段典故：[《高纳德的奖励支票》](http://www.global-sci.org/v1/mc/issues/4/no3/freepdf/91s.pdf)：http://www.global-sci.org/v1/mc/issues/4/no3/freepdf/91s.pdf
+2.56元是从分开始计算、16进制的一块钱。这里有一段典故：[《高纳德的奖励支票》](http://www.global-sci.org/v1/mc/issues/4/no3/freepdf/91s.pdf)
 
-这是“20小时Python” 收集bug的[链接](https://github.com/lanjing99/20HoursPython/issues/2)：https://github.com/lanjing99/20HoursPython/issues/2
+这是“20小时Python” 收集bug的[链接](https://github.com/lanjing99/20HoursPython/issues/2)
 
 ### 群主任务
 1. 学习编程2通关
