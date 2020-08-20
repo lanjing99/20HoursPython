@@ -21,14 +21,14 @@
 
 
 
-##Week 03: 逻辑表达式与条件判断
+## Week 03: 逻辑表达式与条件判断
 
 1. 逻辑表达式
 2. 条件判断
 
 
 
-##Week 04: 循环
+## Week 04: 循环
 
 1. for
 
@@ -36,7 +36,7 @@
 
    
 
-##Week 05: 函数
+## Week 05: 函数
 
 1. 函数的作用
 
@@ -44,7 +44,7 @@
 
    
 
-##Week 06: 数组
+## Week 06: 数组
 
 https://leetcode-cn.com/problems/move-zeroes/
 https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
@@ -52,17 +52,17 @@ https://leetcode-cn.com/problems/rotate-array/
 
 
 
-##Week 07: 字典
+## Week 07: 字典
 
 
 
-##Week 08: 一个小的项目
+## Week 08: 一个小的项目
 
 1. 集成开发环境的使用，如何调试
 
    
 
-##Week 09，10: 一个真实的项目
+## Week 09，10: 一个真实的项目
 
 
 
