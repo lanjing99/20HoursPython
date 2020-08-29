@@ -66,5 +66,21 @@ https://leetcode-cn.com/problems/rotate-array/
 
 
 
+## 延展话题
+
+## Python专题
+
+
+
+## 进一步学习
+
+1. git
+
+2. 算法与数据结构，leetcode
+
+3. 项目
+
+   
+
 ## 参考资料
 
