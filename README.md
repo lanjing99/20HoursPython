@@ -29,15 +29,15 @@
 
    
 
-## 3. github地址
+## 3. 项目地址
 
-1. 到github.com上注册一个账号。如果你要掌握一门编程语言，并且上手实际的项目，一定要申请一个github账号。怎么使用，后续会慢慢展开。
+1. 到gitee.com上注册一个账号。如果你要掌握一门编程语言，并且上手实际的项目，一定要申请一个github账号。怎么使用，后续会慢慢展开。
 
-2. 我们的[github项目](https://github.com/lanjing99/20HoursPython)地址是：https://github.com/lanjing99/20HoursPython
+2. 我们的[gitee项目](https://gitee.com/lanjing99/TwentyHoursPython)地址是：https://gitee.com/lanjing99/TwentyHoursPython
 
    我会把每周要做的任务，学习资源同步放到这里。
 
-   你可以在[这里](https://github.com/lanjing99/20HoursPython/issues)，提问题给我。
+   你可以在[这里](https://gitee.com/lanjing99/TwentyHoursPython/issues/I1UBYH)，提问题给我。
 
 ## 4. 常见问题
 
@@ -70,3 +70,14 @@
 ## 6. 小小野心
 
 我们一起共创一个”20小时Python“入门的作品，以后用来帮助别人快速入门或者开培训课，那都是极好的。
+
+
+
+## 7. 欢迎打赏
+
+20小时Python这个项目免费、开源，算是我个人的第一个作品。
+
+如果对你有用的话，欢迎打赏。
+
+![微信打赏二维码](./images/wechat_reward.jpg)
+
