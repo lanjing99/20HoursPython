@@ -1,0 +1,6 @@
+let c = Character(name: .byte)
+world.place(c, at: Coordinate(column: 5, row: 5))
+c.danceLikeNoOneIsWatching()
+c.danceLikeNoOneIsWatching()
+c.breakItDown()
+c.grumbleGrumble()
