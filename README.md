@@ -77,7 +77,7 @@
 
 20小时Python这个项目免费、开源，算是我个人的第一个作品。
 
-如果对你有用的话，欢迎打赏。
+如果对你有用的话，欢迎打赏，也算是给我的反馈，在此先谢过：）
 
-![微信打赏二维码](./images/wechat_reward.jpg)
+<img src="./images/wechat_reward.jpg" alt="微信打赏二维码" style="zoom: 33%;" />
 
