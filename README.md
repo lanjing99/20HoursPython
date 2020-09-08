@@ -79,5 +79,5 @@
 
 如果对你有用的话，欢迎打赏，也算是给我的反馈，在此先谢过：）
 
-<img src="./images/wechat_reward.jpg" alt="微信打赏二维码" style="zoom: 33%;" />
+![微信打赏二维码](./images/wechat_reward.jpg)
 
