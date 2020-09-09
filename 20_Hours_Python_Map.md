@@ -56,19 +56,25 @@ https://leetcode-cn.com/problems/rotate-array/
 
 
 
-## Week 08: 一个小的项目
+## Week 08: 集成开发环境与调试
 
-1. 集成开发环境的使用，如何调试
+1. 集成开发环境的使用
 
-   
+2. 如何调试
 
-## Week 09，10: 一个真实的项目
+    
+
+## Week 09： 类与对象
+
+
+
+## Week 10： 有个项目
 
 
 
 ## 延展话题
 
-## Python专题
+
 
 
 
@@ -84,3 +90,8 @@ https://leetcode-cn.com/problems/rotate-array/
 
 ## 参考资料
 
+以下书籍得到App上均有会员免费的电子书
+
+1. 《”笨办法“学Python 3》
+2. 《父与子的编程之旅：与小卡特一起学Python》
+3. 《Python编程：从入门到实践》
