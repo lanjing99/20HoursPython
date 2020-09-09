@@ -67,7 +67,7 @@
 
 1. 这周遇到任何问题，欢迎你把问题以评论的方式添加到["Week 01: 命令行与Python运行环境" 问题收集](https://gitee.com/lanjing99/TwentyHoursPython/issues/I1UGHM), 发到微信群也行，我会搬运过去。如果你遇到问题，可以先到那里查看别人是否遇到过类似的问题。
 
-2. 欢迎在[这里](https://gitee.com/lanjing99/TwentyHoursPython/issues): https://gitee.com/lanjing99/TwentyHoursPython/issues，通过新建issues的方式记录和分享你学习的过程，有记录才能看到自己的进步。例如我建了一个[wenjing 的 20小时Python项目学习日志](https://gitee.com/lanjing99/TwentyHoursPython/issues/I1UGGG)
+2. 欢迎在[https://gitee.com/lanjing99/TwentyHoursPython/issues](https://gitee.com/lanjing99/TwentyHoursPython/issues) ， 通过新建issues的方式记录和分享你学习的过程，有记录才能看到自己的进步。例如我建了一个[wenjing 的 20小时Python项目学习日志](https://gitee.com/lanjing99/TwentyHoursPython/issues/I1UGGG)
 
 3. 欢迎[提bug](https://gitee.com/lanjing99/TwentyHoursPython/issues/I1UBYH)给我，今天的彩蛋是2.56这个数字。
 
