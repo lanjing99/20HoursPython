@@ -59,7 +59,10 @@
 
 ## 5 推荐阅读
 
-《”笨办法“学Python 3》的前言，作者给出了初学者学习Python的一条不走弯路的捷径。
+1. 《”笨办法“学Python 3》的前言，作者给出了初学者学习Python的一条不走弯路的捷径。
+
+2. 我们十周的学习计划在[https://gitee.com/lanjing99/TwentyHoursPython/blob/master/20_Hours_Python_Map.md](https://gitee.com/lanjing99/TwentyHoursPython/blob/master/20_Hours_Python_Map.md)
+3. 我们计划如何学习编程在[https://gitee.com/lanjing99/TwentyHoursPython/blob/master/how_we_learn_programming.md](https://gitee.com/lanjing99/TwentyHoursPython/blob/master/how_we_learn_programming.md)
 
 
 
