@@ -94,6 +94,3 @@
 如果对你有用的话，欢迎打赏，用钱投票是最直接、最真诚的投票方式。
 
 ![微信打赏二维码](./images/readme/wechat_reward.jpg)
-
-![支付宝打赏二维码](./images/readme/alipay_reward.jpg)
-
