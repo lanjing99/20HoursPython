@@ -27,7 +27,7 @@
 
 
 
-## Week 04: 循环
+## [Week 04: 循环](https://gitee.com/lanjing99/TwentyHoursPython/blob/master/Week_04_循环.md)
 
 1. 理解什么是循环     --  45分钟
 2. 掌握for语句的使用      -- 45分钟
