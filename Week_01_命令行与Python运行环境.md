@@ -1,6 +1,6 @@
 # Week 01: 命令行与Python运行环境
 
-## 本周目标
+## 1. 本周目标
 
 1. 掌握10个常用的命令 预计1小时
 
@@ -10,7 +10,9 @@
 
    
 
-## 1. 为什么从命令行开始
+## 2. 内容讨论
+
+### 1. 为什么从命令行开始
 
 我给几个理由
 
@@ -22,7 +24,7 @@
 
    
 
-## 2. 10个常用命令
+### 2. 10个常用命令
 
 参考《”笨办法“学Python 3》的最后一章“附录”，根据你的操作系统是macOS、Windows选择相应的要熟悉的命令行，至少熟悉以下几个命令行，看看执行的结果。 预计1小时
 
@@ -36,16 +38,16 @@
 > mv：移动文件或目录。
 > less：逐页查看文件。
 > cat：打印整个文件。
+>
+> 
 
+### 3. Python运行环境安装
 
+参考《”笨办法“学Python 3》习题0：准备工作
 
-## 3. Python运行环境安装
+根据自己使用的操作系统选择安装Python执行环境
 
-参考《”笨办法“学Python 3》习题0：准备工作，根据自己使用的操作系统选择安装Python执行环境
-
-
-
-## 4. hello world
+### 4. hello world
 
 在命令行输出"hello world"
 
@@ -57,7 +59,7 @@
 
 
 
-## 5 推荐阅读
+## 3 参考资料
 
 1. 《”笨办法“学Python 3》的前言，作者给出了初学者学习Python的一条不走弯路的捷径。
 
@@ -66,11 +68,9 @@
 
 
 
-## 6 记录与反馈
+## 4 学习记录
 
-1. 这周遇到任何问题，欢迎你把问题以评论的方式添加到["Week 01: 命令行与Python运行环境" 问题收集](https://gitee.com/lanjing99/TwentyHoursPython/issues/I1UGHM), 发到微信群也行，我会搬运过去。如果你遇到问题，可以先到那里查看别人是否遇到过类似的问题。
-
-2. 欢迎在[https://gitee.com/lanjing99/TwentyHoursPython/issues](https://gitee.com/lanjing99/TwentyHoursPython/issues) ， 通过新建issues的方式记录和分享你学习的过程，有记录才能看到自己的进步。例如我建了一个[wenjing 的 20小时Python项目学习日志](https://gitee.com/lanjing99/TwentyHoursPython/issues/I1UGGG)
-
+1. 欢迎在 ， 通过新建issues的方式记录和分享你学习的过程，有记录才能看到自己的进步。例如我建了一个[wenjing 的 20小时Python项目学习日志](https://gitee.com/lanjing99/TwentyHoursPython/issues/I1UGGG)
+2. 这周遇到任何问题，欢迎你把问题以评论的方式添加到["Week 01: 命令行与Python运行环境" 问题收集](https://gitee.com/lanjing99/TwentyHoursPython/issues/I1UGHM), 发到微信群也行，我会搬运过去。如果你遇到问题，可以先到那里查看别人是否遇到过类似的问题。
 3. 欢迎[提bug](https://gitee.com/lanjing99/TwentyHoursPython/issues/I1UBYH)给我，今天的彩蛋是2.56这个数字。
 
