@@ -26,10 +26,9 @@
 
 ## 2. 参考内容
 
-1. 《”笨办法“学Python 3》的前言习题1，习题4，5，6。
+1. 《”笨办法“学Python 3》习题1，习题4，5，6。
 2. 《父与子的编程之旅）第2-4章。
-3. 我们十周的学习计划在[https://gitee.com/lanjing99/TwentyHoursPython/blob/master/20_Hours_Python_Map.md](https://gitee.com/lanjing99/TwentyHoursPython/blob/master/20_Hours_Python_Map.md)
-4. 我们计划如何学习编程在[https://gitee.com/lanjing99/TwentyHoursPython/blob/master/how_we_learn_programming.md](https://gitee.com/lanjing99/TwentyHoursPython/blob/master/how_we_learn_programming.md)
+3. 访问[20小时Python](https://gitee.com/lanjing99/TwentyHoursPython)项目，可以查看更多相关内容。
 
 
 
