@@ -20,10 +20,10 @@
 
 
 
-## Week 03: 逻辑表达式与条件判断
+## [Week 03: 条件判断](https://gitee.com/lanjing99/TwentyHoursPython/blob/master/Week_03_条件判断.md)
 
-1. 逻辑表达式
-2. 条件判断
+1. 理解逻辑表达式     --  75分钟
+2. 使用if-else语句      -- 45分钟
 
 
 
