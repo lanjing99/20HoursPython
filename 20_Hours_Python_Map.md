@@ -2,22 +2,21 @@
 
 
 
-## Week 01: 安装环境与命令行
+## [ Week 01: 命令行与Python运行环境](https://gitee.com/lanjing99/TwentyHoursPython/blob/master/Week_01_命令行与Python运行环境.md)
 
-1. 安装Python开发环境
-2. 使用常见的命令
-3. print("hello world") 
+1. 掌握10个常用的命令     -- 1小时
+2. 安装Python运行环境安装  -- 45分钟
 
-
-什么是命令行：常见的几个命令
+3. 编写第一个Python程序，输出"hello world"   --15分钟
 
 
 
-## Week 02: 各种输出与变量
+## [ Week 02: 输出、变量、数据类型](https://gitee.com/lanjing99/TwentyHoursPython/blob/master/Week_02_输出、变量、数据类型.md)
 
-1. 输出字符串
-2. 输出表达式计算结果
-3. 变量的用途
+1. 使用Python在屏幕上输出各种内容     --  30分钟
+2. 理解语句、表达式的概念                     -- 30分钟
+
+3. 理解什么是变量和数据类型                 -- 60分钟
 
 
 
