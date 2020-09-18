@@ -17,11 +17,11 @@
 
 编程是一个强调动手的技能：
 
-> ”make hands dirty"，
+> make hands dirty
 >
->  “talk is cheap, show me the code", 
+>  talk is cheap, show me the code
 >
-> "read the f**king code"。
+> read the f**king code
 
 光看教材、视频，不实际敲代码是学不会的，在这方面我走了很多弯路。
 
@@ -97,8 +97,8 @@
 
 ## 8. 欢迎打赏
 
-20小时Python这个项目免费、开源，算是我个人的第一个作品。
+20小时Python这个项目免费、开源，算是我的第一个学习编程的作品。
 
-如果对你有用的话，欢迎打赏，用钱投票是最直接、最真诚的投票方式。
+如果对你有用的话，欢迎打赏，我一直相信用钱投票是最直接、最真诚的方式。
 
 ![微信打赏二维码](./images/readme/wechat_reward.jpg)
